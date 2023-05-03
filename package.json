@@ -1,0 +1,33 @@
+{
+  "name": "snapbooks",
+  "version": "1.0.0",
+  "description": "Javascript SDK for the Snapbooks accounting service",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snapbooks-app/snapbooks-js.git"
+  },
+  "keywords": [
+    "SDK",
+    "Snapbooks",
+    "accounting",
+    "javascript",
+    "typescript"
+  ],
+  "author": "Snapbooks",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/snapbooks-app/snapbooks-js/issues"
+  },
+  "homepage": "https://github.com/snapbooks-app/snapbooks-js#readme",
+  "devDependencies": {
+    "@types/jest": "^29.5.1",
+    "jest": "^29.5.0",
+    "ts-jest": "^29.1.0",
+    "typescript": "^5.0.4"
+  }
+}
